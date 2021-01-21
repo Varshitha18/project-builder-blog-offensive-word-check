@@ -1,8 +1,7 @@
 package testing;
 
-/*Uncomment the below code to test your application
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.time.LocalDate;
 
@@ -32,4 +31,4 @@ public class TestBlog {
 		 }
 	 }
 }
-*/
+
